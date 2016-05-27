@@ -1,0 +1,119 @@
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.is_alert.label] - undefined
+msgid "Alert me about news, products, services, events and promotions."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.country.label] - undefined
+msgid "Country"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.email.label] - undefined
+msgid "Email"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.first_name.label] - undefined
+msgid "First name"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.email.placeholder] - undefined
+msgid "Input a vaild email address"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.first_name.placeholder] - undefined
+msgid "Input the first name"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.last_name.placeholder] - undefined
+msgid "Input the last name"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.postcode.placeholder] - undefined
+msgid "Input the postcode"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.last_name.label] - undefined
+msgid "Last name"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.password.label] - undefined
+msgid "Password"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.username.placeholder] - undefined
+msgid "Pick up a user name"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.error.general] - undefined
+msgid "Please check this field."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.postcode.label] - undefined
+msgid "Postcode"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.country.placeholder] - undefined
+msgid "Select your country"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.submit] - undefined
+msgid "Submit"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.is_newsletter.label] - undefined
+msgid "Subscribe to MediaTek Labs' newsletter."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.email.error.isEmail] - undefined
+msgid "The email must be a valid email address."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.email.error.unique] - undefined
+msgid "The email need to be unique."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.password.error.length] - undefined
+msgid "The password must be at least 6 characters."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.username.error.unique] - undefined
+msgid "The username need to be unique."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.error.required] - undefined
+msgid "This field is required"
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.password.placeholder] - undefined
+msgid "Use at least 6 alphanumeric characters."
+msgstr ""
+
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.username.label] - undefined
+msgid "User name"
+msgstr ""
+
+#: ./_translations/src/containers/NotFound/messages.json
+#. [NotFound.notFoundPage] - 404 Not Found
+msgid "{code} Not Found. {count, plural, =0 {no new messages} one {一位工程師努力趕工中 💪 💪 💪} other {{count} 位工程師努力趕工中 💪 💪 💪}}"
+msgstr ""
