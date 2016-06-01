@@ -13,6 +13,11 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
+#: ./_translations/src/containers/App/messages.json
+#. [App.activation_code_not_found] - undefined
+msgid "Failed to activate your account. Please try again or resend the activation email."
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.first_name.label] - undefined
 msgid "First name"
