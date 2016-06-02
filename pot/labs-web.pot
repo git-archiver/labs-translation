@@ -3,9 +3,34 @@
 msgid "Alert me about news, products, services, events and promotions."
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.application.label] - undefined
+msgid "Application"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.company.label] - undefined
+msgid "Company name"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.website.label] - undefined
+msgid "Company website"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.phone_number.label] - undefined
+msgid "Contact number"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.country.label] - undefined
 msgid "Country"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.development_focus.label] - undefined
+msgid "Development focus"
 msgstr ""
 
 #: ./_translations/src/containers/Signup/messages.json
@@ -28,6 +53,21 @@ msgstr ""
 msgid "Input a vaild email address"
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.company.placeholder] - undefined
+msgid "Input the company name"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.website.placeholder] - undefined
+msgid "Input the company website URL"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.phone_number.placeholder] - undefined
+msgid "Input the contact number"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.first_name.placeholder] - undefined
 msgid "Input the first name"
@@ -43,9 +83,19 @@ msgstr ""
 msgid "Input the postcode"
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.linkedin.placeholder] - undefined
+msgid "Input your LinkedIn profile URL"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.last_name.label] - undefined
 msgid "Last name"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.linkedin.label] - undefined
+msgid "LinkedIn"
 msgstr ""
 
 #: ./_translations/src/containers/Signup/messages.json
@@ -83,6 +133,11 @@ msgstr ""
 msgid "Subscribe to MediaTek Labs' newsletter."
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.introduction] - undefined
+msgid "Tell us more about you, or"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.email.error.isEmail] - undefined
 msgid "The email must be a valid email address."
@@ -108,6 +163,11 @@ msgstr ""
 msgid "This field is required"
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.update] - undefined
+msgid "Update"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.password.placeholder] - undefined
 msgid "Use at least 6 alphanumeric characters."
@@ -116,6 +176,31 @@ msgstr ""
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.username.label] - undefined
 msgid "User name"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.wireless_connectivity.label] - undefined
+msgid "Wireless connectivity"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.subTitle.company] - undefined
+msgid "Your company"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.subTitle.projects] - undefined
+msgid "Your projects"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.subTitle.socialProfile] - undefined
+msgid "Your social profile"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.skip] - undefined
+msgid "skip"
 msgstr ""
 
 #: ./_translations/src/containers/NotFound/messages.json
