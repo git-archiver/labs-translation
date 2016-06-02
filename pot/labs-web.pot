@@ -18,6 +18,13 @@ msgstr ""
 msgid "Application"
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.leave] - undefined
+#: ./_translations/src/containers/Signup/messages.json
+#. [SignupForm.leave] - undefined
+msgid "Are you sure you want to navigate away from this page?"
+msgstr ""
+
 #: ./_translations/src/components/header/messages.json
 #. [Header.about.blog] - undefined
 msgid "Blog"
