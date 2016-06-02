@@ -1,3 +1,13 @@
+#: ./_translations/src/components/header/messages.json
+#. [Header.about] - undefined
+msgid "About"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.about.labs] - undefined
+msgid "About Labs"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.is_alert.label] - undefined
 msgid "Alert me about news, products, services, events and promotions."
@@ -6,6 +16,11 @@ msgstr ""
 #: ./_translations/src/containers/BusinessInfo/messages.json
 #. [BusinessInfoForm.application.label] - undefined
 msgid "Application"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.about.blog] - undefined
+msgid "Blog"
 msgstr ""
 
 #: ./_translations/src/containers/BusinessInfo/messages.json
@@ -23,6 +38,11 @@ msgstr ""
 msgid "Contact number"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [Header.about.contact] - undefined
+msgid "Contact us"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.country.label] - undefined
 msgid "Country"
@@ -38,6 +58,11 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [Header.about.events] - undefined
+msgid "Events"
+msgstr ""
+
 #: ./_translations/src/containers/App/messages.json
 #. [App.activation_code_not_found] - undefined
 msgid "Failed to activate your account. Please try again or resend the activation email."
@@ -46,6 +71,21 @@ msgstr ""
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.first_name.label] - undefined
 msgid "First name"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.support.forum] - undefined
+msgid "Forum"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.market] - undefined
+msgid "Go to market"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [SubHeader.hi] - undefined
+msgid "Hi,"
 msgstr ""
 
 #: ./_translations/src/containers/Signup/messages.json
@@ -88,14 +128,44 @@ msgstr ""
 msgid "Input your LinkedIn profile URL"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [Header.about.iot] - undefined
+msgid "IoT introduction"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.support.knowledge] - undefined
+msgid "Knowledge base"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [SubHeader.languages] - undefined
+msgid "Languages"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.last_name.label] - undefined
 msgid "Last name"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [Header.support.customers] - undefined
+msgid "Licensed customers"
+msgstr ""
+
 #: ./_translations/src/containers/BusinessInfo/messages.json
 #. [BusinessInfoForm.linkedin.label] - undefined
 msgid "LinkedIn"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [SubHeader.logout] - undefined
+msgid "Logout"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.about.newsletter] - undefined
+msgid "Newsletter"
 msgstr ""
 
 #: ./_translations/src/containers/Signup/messages.json
@@ -108,6 +178,11 @@ msgstr ""
 msgid "Pick up a user name"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [Header.platform] - undefined
+msgid "Platform"
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.error.general] - undefined
 msgid "Please check this field."
@@ -118,9 +193,34 @@ msgstr ""
 msgid "Postcode"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [SubHeader.profile] - undefined
+msgid "Profile"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [SubHeader.register] - undefined
+msgid "Register"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [NavigationSearch.placeholder] - undefined
+msgid "Search item ..."
+msgstr ""
+
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.country.placeholder] - undefined
 msgid "Select your country"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.showcase] - undefined
+msgid "Showcase"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [SubHeader.signin] - undefined
+msgid "Sign in"
 msgstr ""
 
 #: ./_translations/src/containers/Signup/messages.json
@@ -198,9 +298,19 @@ msgstr ""
 msgid "Your social profile"
 msgstr ""
 
+#: ./_translations/src/components/header/messages.json
+#. [Header.resources] - undefined
+msgid "resources"
+msgstr ""
+
 #: ./_translations/src/containers/BusinessInfo/messages.json
 #. [BusinessInfoForm.skip] - undefined
 msgid "skip"
+msgstr ""
+
+#: ./_translations/src/components/header/messages.json
+#. [Header.support] - undefined
+msgid "support"
 msgstr ""
 
 #: ./_translations/src/containers/NotFound/messages.json
