@@ -31,6 +31,11 @@ msgid "Blog"
 msgstr ""
 
 #: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfo.CheckEmail] - undefined
+msgid "Check your mailbox for email activation."
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
 #. [BusinessInfoForm.company.label] - undefined
 msgid "Company name"
 msgstr ""
@@ -135,6 +140,11 @@ msgstr ""
 msgid "Input your LinkedIn profile URL"
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfo.error.token_invalid] - undefined
+msgid "Invalid token string."
+msgstr ""
+
 #: ./_translations/src/components/header/messages.json
 #. [Header.about.iot] - undefined
 msgid "IoT introduction"
@@ -161,6 +171,11 @@ msgid "Licensed customers"
 msgstr ""
 
 #: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfo.error.expire_time_limit] - undefined
+msgid "Limit send email expire time."
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
 #. [BusinessInfoForm.linkedin.label] - undefined
 msgid "LinkedIn"
 msgstr ""
@@ -168,6 +183,11 @@ msgstr ""
 #: ./_translations/src/components/header/messages.json
 #. [SubHeader.logout] - undefined
 msgid "Logout"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfo.error.token_not_provided] - undefined
+msgid "Missing token."
 msgstr ""
 
 #: ./_translations/src/components/header/messages.json
@@ -190,6 +210,8 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.error.general] - undefined
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.error.general] - undefined
 msgid "Please check this field."
@@ -238,6 +260,11 @@ msgstr ""
 #: ./_translations/src/containers/Signup/messages.json
 #. [SignupForm.is_newsletter.label] - undefined
 msgid "Subscribe to MediaTek Labs' newsletter."
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfoForm.success] - undefined
+msgid "Success! Your profile has been updated!"
 msgstr ""
 
 #: ./_translations/src/containers/BusinessInfo/messages.json
@@ -291,8 +318,18 @@ msgid "Wireless connectivity"
 msgstr ""
 
 #: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfo.error.permission_denied] - undefined
+msgid "You don't have permission to access it."
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
 #. [BusinessInfoForm.subTitle.company] - undefined
 msgid "Your company"
+msgstr ""
+
+#: ./_translations/src/containers/BusinessInfo/messages.json
+#. [BusinessInfo.error.active_user] - undefined
+msgid "Your email is already actived."
 msgstr ""
 
 #: ./_translations/src/containers/BusinessInfo/messages.json
